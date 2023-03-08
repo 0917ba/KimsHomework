@@ -1,6 +1,4 @@
 const fs = require("fs");
-
-
 let jsonList = new Array();
 
 for (let i = 1; i <= 4; i++) {
